@@ -2,10 +2,10 @@
 ## Problem Statement
 Our dataset explores the rise of Covid and effect of vaccinations on Covid, which ultimately helped us to reach the milestone of 1 billion vaccinations in India. 
 ## Objectives
--Compare the variation of tests, cases and deaths in year 2020 and 2021. <br>
--Analyze the effect of vaccination on cases, deaths, positive rate and death rate.<br>
--Observe and note the patterns in vaccinations.<br>
--Compare the effect of first and second dose of vaccinations on cases and deaths.<br>
+- Compare the variation of tests, cases and deaths in year 2020 and 2021. <br>
+- Analyze the effect of vaccination on cases, deaths, positive rate and death rate.<br>
+- Observe and note the patterns in vaccinations.<br>
+- Compare the effect of first and second dose of vaccinations on cases and deaths.<br>
 ## Data Description
 The given dataset is the daily basis count in Covid and vaccination sector.<br>
 It summarizes the information regarding the number of Covid cases,  deaths, Covid tests and the status of vaccination.<br>
