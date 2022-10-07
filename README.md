@@ -12,5 +12,4 @@ Our dataset explores the rise of Covid and effect of vaccinations on Covid, wh
 - The data helps to analyze the situation of approximately 2 years of data till Dec 15, 2021, the pre-release of vaccine in the first year and post-release of vaccine in the second year.
 - This dataset comprises 50 columns(attributes) and 686 rows(tuples).
 ## Analysis
-<br>
 ![vaccine](https://user-images.githubusercontent.com/83594754/194668225-cec3fe7d-dd32-4c34-923c-edaa01130b5c.png)
